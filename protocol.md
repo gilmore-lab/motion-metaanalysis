@@ -1,0 +1,55 @@
+Protocol
+================
+Rick O. Gilmore
+2018-10-26 09:27:07
+
+Purpose
+-------
+
+Meeting notes
+-------------
+
+### 2018-10-26
+
+-   Goals:
+    1.  review the literature about the development of motion perception (and brain responses to motion).
+    2.  if possible, do a meta-analysis.
+-   Action steps:
+    -   Search terms
+        -   motion coherence children (unquoted)
+        -   motion perception children (unquoted)
+        -   motion perception review (unquoted)
+        -   motion perception review development (unquoted)
+    -   Search time period
+        -   Open...
+    -   Measure types
+        -   Behavioral responses
+        -   Brain measures if there are behavioral data
+        -   Brain responses only (e.g., our SSVEP)
+    -   How to gather sources
+        -   Google Scholar search
+        -   Tag
+    -   How to evaluate/code sources
+        -   Stimulus type
+            -   motion coherence, random dot kinematograms
+            -   biological motion. [demo](https://www.biomotionlab.ca/html5-bml-walker/)
+            -   grating motion/direction thresholds (temporal)
+            -   optic flow
+        -   Stimulus parameters
+            -   Speed
+            -   Pattern type (linear/uniform)
+            -   Direction
+            -   Noise/coherence
+            -   Spatial characteristics (spatial frequency, dot size, display size, ...)
+            -   Temporal characteristics (duration, frequency)
+        -   Person characteristics
+            -   ASD
+            -   typically developing
+        -   Age
+        -   Sex/gender
+        -   Measure type
+        -   Behavior type
+            -   Button pressing
+            -   Verbal
+            -   Other
+    -   Seek data sets?
