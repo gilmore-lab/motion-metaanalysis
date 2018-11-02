@@ -1,0 +1,17 @@
+---
+title: "Grating & Plaid Motion"
+author: "Michelle Mendez"
+date: "`r Sys.time()`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Purpose
+
+## Methods
+
+- Tagged in PaperPile with `grating-plaid-motion`, `motion-metaanalysis`.
+

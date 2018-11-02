@@ -1,0 +1,17 @@
+---
+title: "Dot Motion"
+author: "Zhichun Zhao"
+date: "`r Sys.time()`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Purpose
+
+## Methods
+
+- Tagged in PaperPile with `dot-motion`, `motion-metaanalysis`.
+

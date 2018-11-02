@@ -1,0 +1,17 @@
+---
+title: "Biological motion"
+author: "Ashton Dluzneski"
+date: "`r Sys.time()`"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Purpose
+
+## Methods
+
+- Tagged in PaperPile with `biological-motion`, `motion-metaanalysis`.
+
