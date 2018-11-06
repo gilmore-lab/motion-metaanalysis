@@ -15,3 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 - Tagged in PaperPile with `grating-plaid-motion`, `motion-metaanalysis`.
 
+## Work Sessions
+
+- November 6, 2018 
+- got through page 1 on google scholar and half of page 2; found 12 potential articles
