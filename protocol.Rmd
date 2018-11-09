@@ -73,8 +73,9 @@ Look within papers we've tagged for references.
             - Autism Spectrum Disorder (ASD)
             - [amblyopia](https://nei.nih.gov/health/amblyopia)
             - typically developing
-        - Age
-            - Newborns, infants, toddler, children, adolescents
+        - Age 
+            - https://www.healthychildren.org/English/ages-stages/Pages/default.aspx
+            - Newborns (0-4wk), baby(0-12 mo), toddler (1-3 yr), preschool (3-5 yr), gradschooler (5-12 yr), teen (12-18 yr), young adult (12-21 yr), adult (21+)
         - ~~Sex/gender~~
         - Measure type
             - EEG-based
