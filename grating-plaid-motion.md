@@ -1,7 +1,7 @@
 Grating & Plaid Motion
 ================
 Michelle Mendez
-2018-11-02 10:27:53
+2018-11-09 09:37:32
 
 Purpose
 -------
@@ -10,3 +10,11 @@ Methods
 -------
 
 -   Tagged in PaperPile with `grating-plaid-motion`, `motion-metaanalysis`.
+
+Work Sessions
+-------------
+
+-   2018-11-09
+    -   Transferred several papers from PaperPile to [Google Sheet](https://docs.google.com/spreadsheets/d/1j6IeyOxoOYAlPrhivEqNRWCbDZ2FkjQ0iBY8C4kdi6o/edit?usp=sharing). Tagged transferred papers.
+-   November 6, 2018
+    -   got through page 1 on google scholar and half of page 2; found 12 potential articles
