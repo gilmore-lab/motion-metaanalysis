@@ -1,7 +1,7 @@
 Grating & Plaid Motion
 ================
 Michelle Mendez
-2018-11-06 13:02:14
+2018-11-13 09:20:59
 
 Purpose
 -------
@@ -14,5 +14,7 @@ Methods
 Work Sessions
 -------------
 
+-   2018-11-09
+    -   Transferred several papers from PaperPile to [Google Sheet](https://docs.google.com/spreadsheets/d/1j6IeyOxoOYAlPrhivEqNRWCbDZ2FkjQ0iBY8C4kdi6o/edit?usp=sharing). Tagged transferred papers with `added_to_google_sheet`.
 -   November 6, 2018
--   got through page 1 on google scholar and half of page 2; found 12 potential articles
+    -   got through page 1 on google scholar and half of page 2; found 12 potential articles
