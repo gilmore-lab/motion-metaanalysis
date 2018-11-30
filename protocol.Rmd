@@ -48,8 +48,10 @@ Look within papers we've tagged for references.
         - Google Scholar search
         - Tag on PaperPile with `motion-metaanalysis`
     - How to evaluate/code sources
-        - Complete entry for each source on Google sheet: <https://docs.google.com/spreadsheets/d/1j6IeyOxoOYAlPrhivEqNRWCbDZ2FkjQ0iBY8C4kdi6o/edit?usp=sharing>
-            - Phase I focuses on subset of variables (not stimulus parameters, availability of data, suitability for meta-analysis)
+        - Complete the [Google Form](https://docs.google.com/forms/d/e/1FAIpQLSeFVnK8m4-yoIZm04jCZjtnQX5HFmOvLsi9hnmnYbHIm216hw/viewform?vc=0&c=0&w=1) for each paper 
+        - This will populate the Google Sheet [motion-metaanalysis (Responses)](https://docs.google.com/spreadsheets/d/1K0TEzdSXl7GTFg2-vDHvndVvxOHLRvXdgZWVDNyvPLM/edit#gid=1643485482) 
+        ~~- Complete entry for each source on Google sheet: <https://docs.google.com/spreadsheets/d/1j6IeyOxoOYAlPrhivEqNRWCbDZ2FkjQ0iBY8C4kdi6o/edit?usp=sharing>
+            - Phase I focuses on subset of variables (not stimulus parameters, availability of data, suitability for meta-analysis)~~
         - Stimulus type
             - motion coherence, random dot kinematograms
                 - Video exemplars
