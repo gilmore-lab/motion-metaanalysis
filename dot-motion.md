@@ -17,4 +17,7 @@ Work Sessions
 -------------
 
 -   2018-11-08
-    -   Tagged 10 papers
+    -   Tagged 10 papers with `dot-motion`
+-   2019-01-24
+    -   Gone through page 42 to half of page 47 in Google Scholar [motion coherence children](https://scholar.google.com/scholar?start=460&q=motion+coherence+children&hl=en&as_sdt=1,39&as_vis=1&authuser=1)
+    -   Tagged 5 potential papers with `motion-metaanalysis`
