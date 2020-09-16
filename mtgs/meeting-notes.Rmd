@@ -1,0 +1,51 @@
+---
+title: "Meeting Notes"
+author: "Rick Gilmore & Yiming Qian"
+date: "`r Sys.time()`"
+output: 
+  html_document:
+    toc: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Purpose
+
+This document summarizes project meetings for the Motion Mega-Analysis Project.
+
+# Resources
+
+- We have a folder on Box:
+
+```{r}
+list.files("~/Box/b-gilmore-lab-group Shared/gilmore-lab/projects/meta/")
+```
+
+There is a PowerPoint document (`meta_analysis.pptx`) with notes about the meta-analysis data collection, inclusion and exclusion criteria, etc. 
+
+There is a MS Excel spreadsheet (`Paperpile - motion-metaanalysis - Jul 07.xlsx`) Yiming is using to document the found papers and to store data about them.
+
+- We have a set of papers on [PaperPile](https://paperpile.com/app). We have a set of tagged papers (tag: `motion-metaanalysis`). This URL should select them: <https://paperpile.com/app/label/2f88a480-2da8-0db8-a5a8-8cac9842e693>.
+
+# Meetings
+
+## 2020-09-16
+
+- Attending: Rick & Yiming
+- Actions
+    - Created Meeting Notes file, added resources and descriptions.
+    - Discussed Shirai, N., Kanazawa, S., & Yamaguchi, M. K. (2004). Asymmetry for the perception of expansion/contraction in infancy. Infant Behavior & Development, 27(3), 315–322. https://doi.org/10.1016/j.infbeh.2003.12.004
+      - Determined it was not in the <span class="green">green</span> (definitely accept) or <span class="red">red</span> (definitely reject) categories.
+      - Would have to calculate effect sizes by measuring points on the plots.
+      - The motion displays are complex -- multiple expanding or contracting components.
+      - On the other hand, the speed is reported (8.6 deg/s), and the results are pretty clear -- preference for expansion (in background of contraction) but not the reverse.
+    - Clarified difference between **meta-analysis** part (with clean data for effect size estimates) and **mega-analysis** (generate dataset with parameters that can be used for other analyses).
+    - Discussed Schlottmann, A., & Ray, E. (2010). Goal attribution to schematic animals: do 6-month-olds perceive biological motion as animate? Developmental Science, 13(1), 1–10. https://doi.org/10.1111/j.1467-7687.2009.00854.x
+        - Complex "non-rigid" motion of abstract shapes
+        - Hard to extract motion parameters for comparison
+    - Discussed Wattam-Bell, J. (2009). Stereo and motion Dmax in infants. Journal of Vision, 9(6), 9.1–9. https://doi.org/10.1167/9.6.9
+        - Could possibly calculate speed of motion of random dot kinematograms, but otherwise hard to include.
+        
+    
