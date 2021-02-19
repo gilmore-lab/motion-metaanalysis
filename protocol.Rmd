@@ -100,3 +100,35 @@ Look within papers we've tagged for references.
 ## Sources to look at more deeply
 
 - Hadad, B.-S., Schwartz, S., Maurer, D., & Lewis, T. L. (2015). Motion perception: a review of developmental changes and the role of early visual experience. Frontiers in integrative neuroscience, 9, 49. Retrieved June 20, 2016, from http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4569849/
+
+## Coding steps
+
+The coding spreadsheet is located here: <https://docs.google.com/spreadsheets/d/1MD2MM22b5iWwHatBSBiqvU265KaEsC7-Xa-HBTIEO-Y/edit#gid=0>
+
+The following variables have been entered already:
+
+`Item type`
+`Authors`
+`Title`
+
+Raters will code each selected paper with the following variables:
+
+### `Coder`: 
+
+Enter the coder's first name.
+
+### `Article type`: 
+
+Enter one of the following single letter codes to describe the type of the paper.
+
+`R`: Review article or meta-analysis
+
+`A`: Empirical article
+
+`T`: Thesis or dissertation
+
+`C`: Conference abstract
+
+If a paper is coded as `R`, we do not need to complete the rest of the codes about the tasks or participant demographics.
+Also, papers coded `R` are excluded, and must be coded as excluded by...
+
