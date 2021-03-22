@@ -101,6 +101,10 @@ Look within papers we've tagged for references.
 
 - Hadad, B.-S., Schwartz, S., Maurer, D., & Lewis, T. L. (2015). Motion perception: a review of developmental changes and the role of early visual experience. Frontiers in integrative neuroscience, 9, 49. Retrieved June 20, 2016, from http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4569849/
 
+## How to find papers from Paperpile
+
+
+
 ## Coding steps
 
 The coding spreadsheet is located here: <https://docs.google.com/spreadsheets/d/1MD2MM22b5iWwHatBSBiqvU265KaEsC7-Xa-HBTIEO-Y/edit#gid=0>
