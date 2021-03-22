@@ -101,8 +101,16 @@ Look within papers we've tagged for references.
 
 - Hadad, B.-S., Schwartz, S., Maurer, D., & Lewis, T. L. (2015). Motion perception: a review of developmental changes and the role of early visual experience. Frontiers in integrative neuroscience, 9, 49. Retrieved June 20, 2016, from http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4569849/
 
-## How to find papers from Paperpile
-open google drive 
+## How to find papers from google drive
+-Open google drive <https://drive.google.com>
+-Logged in to your gmail account (not psu account) 
+-Click on "Shared with me" in the left hand side
+-Find a folder named "Paperpile"
+-Open "All papers" folder (The alphabet letter folder is organized with author's last name) 
+-Serch your article from author's last name OR type your article's name in the "search drive"
+-ex: "temporal coding for visual space" (upper case or lower case won't effect, but adding quotation mark at the beginning and ending of the article title can help google drive to narrow down the search)  
+-You can either download it or view it directly to code the paper (whatever way you preferred) 
+
 
 **Notes
 
