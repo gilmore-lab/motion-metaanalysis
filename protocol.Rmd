@@ -104,7 +104,13 @@ Look within papers we've tagged for references.
 ## How to find papers from Paperpile
 open google drive 
 
+**Notes
 
+format images like:
+![ImageName](img/ImageName.extension)
+
+formate weblinks like: 
+[Name for link](https://link address)
 ## Coding steps
 
 The coding spreadsheet is located here: <https://docs.google.com/spreadsheets/d/1MD2MM22b5iWwHatBSBiqvU265KaEsC7-Xa-HBTIEO-Y/edit#gid=0>
